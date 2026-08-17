@@ -1,0 +1,55 @@
+li [href="#الهدف"] {
+    color: red;
+}
+li [href="#المهارات"] {
+    color: green;
+}
+li [href="#الدروس"] {
+    color: rgb(231, 231, 6);
+}
+li [href="#المشاريع"] {
+    color: cyan;
+}
+li [href="#الورشات"] {
+    color: greenyellow;
+}
+li [href="#المجموعات"] {
+    color: magenta;
+}
+.red {
+    color: red;
+}
+img[id="الهدف"] {
+    height: 200px;
+    width: 400px;
+}
+#المهارات {
+    color: green;
+}
+#الدروس {
+    color: rgb(231, 231, 6);
+}
+#المشاريع {
+    color: cyan;
+}
+#الورشات {
+    color: greenyellow;
+}
+#المجموعات {
+    color: magenta;
+}
+.lesson {
+    color: rgb(231, 231, 6);
+}
+
+.skill {
+    color: green;
+}
+
+.game {
+    color: magenta;
+}
+
+* {
+    text-align: right;
+}
