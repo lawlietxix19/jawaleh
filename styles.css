@@ -50,6 +50,30 @@ img[id="الهدف"] {
     color: magenta;
 }
 
-* {
+html {
     text-align: right;
+    font-family: "calibri light";
+}
+table, td, tr, th, thead, tbody {
+    text-align: center;
+    border: 2px solid black;
+}
+footer {
+    text-align: center;
+    font-family: "calibri light";
+    background-color: aquamarine;
+    padding: 15px;
+}
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+}
+.logo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+div.header-content {
+    background-color: aquamarine;
+    padding: 1px;
 }
